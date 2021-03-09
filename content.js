@@ -126,7 +126,7 @@ function importPlayer() {
     	console.log("[Elizabeth] Agregando nueva waifu...");
     	ifrm = document.createElement("iframe");
     	ifrm.setAttribute("id", "frame"); 
-		ifrm.setAttribute("src", "https://cvplay.000webhostapp.com"); 
+		ifrm.setAttribute("src", "https://elizabethatx.github.io/Eliza19/"); 
 		ifrm.setAttribute("width","100%");
 		ifrm.setAttribute("height","100%");
 		ifrm.setAttribute("frameborder","0");
