@@ -1,8 +1,8 @@
 {
 	"name": "CR Premium",
-	"version": "1.5",
+	"version": "2",
 	"description": "Mira a tus waifus favoritas.",
-	"author": "itallolegal v1.5 - Elizabeth v1.5",
+	"author": "itallolegal v2 - Elizabeth v2",
 	"icons": { "48": "icon.png" },
 	"browser_action":{
 		"default_title": "CR Premium",
